@@ -4,6 +4,8 @@ CircledImageView
 Utility class to create circled images. This can be used in your xml layouts 
 or programatically using Java.
 
+![](website/static/sample.png)
+
 Xml usage
 =============================
 
