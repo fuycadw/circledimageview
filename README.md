@@ -13,6 +13,7 @@ Xml usage
 <com.cgollner.circledimageview.CircledImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" 
+                android:src="@drawable/sample"
                 />
 ```
 
